@@ -68,7 +68,7 @@ export const experience = [
 
 export const education = [
   {
-    degree: "B.E. — Computer Science and Engineering (AIML)",
+    degree: "BTech — Computer Science and Engineering (AIML)",
     school: "St Mary's Engineering College",
     period: "2023 — 2027",
     detail: "Specialisation in Artificial Intelligence & Machine Learning. Coursework includes ML fundamentals, data analysis, Python, database systems, and full-stack web development.",

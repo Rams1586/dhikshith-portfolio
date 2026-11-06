@@ -1,6 +1,6 @@
 # Dhikshith Ram Poshala — Portfolio Website
 
-**Author:** Dhikshith Ram Poshala — B.E. CSE (AIML), St Mary's Engineering College, Hyderabad (2023–2027)
+**Author:** Dhikshith Ram Poshala — BTech CSE (AIML), St Mary's Engineering College, Hyderabad (2023–2027)
 **LinkedIn:** https://www.linkedin.com/in/poshala-dhikshith-ram-a422492b2 · **GitHub:** https://github.com/Rams1586
 
 A full-stack personal portfolio built with **React 18 + Vite** (frontend) and **Node.js + Express + MongoDB** (backend), with a contact form that saves messages to MongoDB and sends email via Nodemailer. All portfolio content (skills, experience, projects, certifications) is driven by a single data file, `frontend/src/data/portfolioData.js`.
